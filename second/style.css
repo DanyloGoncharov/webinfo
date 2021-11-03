@@ -1,0 +1,19 @@
+img{
+    border: 7px dashed pink;
+    padding: 15px;
+    
+}
+body{
+    margin: 0;
+}
+.first{
+   margin-block: 150px;
+    margin-left: 15px;
+}
+.second {
+    margin-block: 100px;
+   
+   margin-left: 40px;
+   margin-right: 40px;
+margin-top: 20px;
+}
